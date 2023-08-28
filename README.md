@@ -1,7 +1,7 @@
 # Japper Website
 ## Contributors
 1. Cao Thị Phương Anh - K66J 21020272
-2. Nguyên Thị Thanh Thuỷ - k66J 21020411
+2. Nguyên Thị Thanh Thuỷ - K66J 21020411
 3. Phạm Minh Tâm - K66J 21020391
 4. Đặng Thanh Hiền - K66J 21020315
 
